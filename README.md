@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... software development.
 - 🌱 I’m currently learning ... Java Full stack.
 - 💞️ I’m looking to collaborate on ... java development.
-- 📫 How to reach me ... @NayakAbnish on twitter.
+- 📫 How to reach me ... linkedin.com/in/abnish-nayak-795a511b0 on LinkedIn.
 
 <!---
 abnishnayak/abnishnayak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
