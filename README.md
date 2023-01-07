@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abnishnayak
 - 👀 I’m interested in ... software development.
-- 🌱 I’m currently learning ... Java Full stack.
-- 💞️ I’m looking to collaborate on ... java development.
+- 🌱 I’m currently learning ... Javascript.
+- 💞️ I’m looking to collaborate on ... frontend development.
 - 📫 How to reach me ... linkedin.com/in/abnish-nayak-795a511b0 on LinkedIn.
 
 <!---
